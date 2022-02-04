@@ -1,6 +1,6 @@
 {
-  "name": "homework20-calvin-swomley-reactportfolio",
-  "homepage": "https://calvinswomley.github.io/calvin-swomley-portfolio",
+  "name": "hw20-calvinswomley-portfolio",
+  "homepage": "https://calvinswomley.github.io/hw20-calvinswomley-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
