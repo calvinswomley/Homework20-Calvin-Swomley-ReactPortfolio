@@ -4,6 +4,28 @@ import './style.css';
 //import email validation checker
 import { validateEmail } from '../../utils/helpers';
 
+const styles = {
+  aboutStyle: {
+    background: 'lightblue',
+    
+  },
+  contentStyle: {
+    marginLeft: '5%',
+    marginRight: '5%',
+    marginBottom:'10%'
+  },
+  form: {
+    margin: '40px'
+  },
+  formInput: {
+    display: 'block',
+    marginTop: '5px',
+    marginBottom: '5px',
+    width: '60%'
+  }
+}
+
+
 function Contact() {
   // Create state variables for the fields in the form
   // We are also setting their initial values to an empty string
@@ -47,10 +69,11 @@ function Contact() {
   };
 
   return (
-    <div>
+    <div style={styles.aboutStyle}>
       <h2>Send Calvin an Email:</h2>
-      <form className="form">
+      <form style={styles.form}>
       <input
+          style={styles.formInput}
           value={fullName}
           name="fullName"
           onChange={handleInputChange}
@@ -58,6 +81,7 @@ function Contact() {
           placeholder="First and Last Name"
         />
         <input
+          style={styles.formInput}
           value={email}
           name="email"
           onChange={handleInputChange}
@@ -65,6 +89,7 @@ function Contact() {
           placeholder="Email Address"
         />
         <input
+          style={styles.formInput}
           value={messageContent}
           name="messageContent"
           onChange={handleInputChange}
