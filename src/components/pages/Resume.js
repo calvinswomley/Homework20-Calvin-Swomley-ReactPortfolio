@@ -3,7 +3,7 @@ import React from 'react';
 export default function Resume() {
   return (
     <div>
-      <a href="../../images/Calvin_Swomley-Resume.pdf" download>Download Resume PDF.</a>
+      <a href="/Calvin_Swomley-Resume.pdf" download>Download Resume PDF.</a>
       <h2>Proficiencies</h2>
          <ul>
             <li>HTML and CSS</li>
