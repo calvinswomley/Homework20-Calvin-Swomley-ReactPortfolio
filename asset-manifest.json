@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hw20-calvinswomley-portfolio/static/css/main.62b8882d.css",
+    "main.js": "/hw20-calvinswomley-portfolio/static/js/main.0a27a773.js",
+    "static/js/787.bc0170a5.chunk.js": "/hw20-calvinswomley-portfolio/static/js/787.bc0170a5.chunk.js",
+    "static/media/subhub_project2.PNG": "/hw20-calvinswomley-portfolio/static/media/subhub_project2.35d541fbb9a7705471f6.PNG",
+    "static/media/Work_Day_Scheduler_App_HW.JPG": "/hw20-calvinswomley-portfolio/static/media/Work_Day_Scheduler_App_HW.0a50c20ff3f3f00e333d.JPG",
+    "static/media/Note_Taker.PNG": "/hw20-calvinswomley-portfolio/static/media/Note_Taker.2bc1639ab01247fb3a4a.PNG",
+    "static/media/E-CommerceBackEnd_Routes.PNG": "/hw20-calvinswomley-portfolio/static/media/E-CommerceBackEnd_Routes.bf884fd1bc1157483edf.PNG",
+    "static/media/Code_Quiz_App_HW.JPG": "/hw20-calvinswomley-portfolio/static/media/Code_Quiz_App_HW.c237bf4939dfecaa3139.JPG",
+    "static/media/Calvin_Swomley.jpg": "/hw20-calvinswomley-portfolio/static/media/Calvin_Swomley.da5ea3bfe5a399e2fdcc.jpg",
+    "index.html": "/hw20-calvinswomley-portfolio/index.html",
+    "main.62b8882d.css.map": "/hw20-calvinswomley-portfolio/static/css/main.62b8882d.css.map",
+    "main.0a27a773.js.map": "/hw20-calvinswomley-portfolio/static/js/main.0a27a773.js.map",
+    "787.bc0170a5.chunk.js.map": "/hw20-calvinswomley-portfolio/static/js/787.bc0170a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62b8882d.css",
+    "static/js/main.0a27a773.js"
+  ]
+}
